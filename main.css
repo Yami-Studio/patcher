@@ -12,7 +12,7 @@ html, body {
 }
 
 body {
-  background-color: #37385F;
+  background: linear-gradient(to right, #44457B, #6E377C);
   color: #D7D7EF;
   font-family: 'PT Sans', sans-serif;
   display: -ms-flexbox;
